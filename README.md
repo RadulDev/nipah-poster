@@ -4,6 +4,8 @@ poster presentsion analysis of nipah virus
 
 <h1>git commands.</h1>
 
+go to a directory where you would like to clone(download ) the repository to. then use following commands
+
 to clone the repository
 
 git clone "   \<link of repository\>   "
