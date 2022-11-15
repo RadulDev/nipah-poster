@@ -6,7 +6,8 @@ poster presentsion analysis of nipah virus
 
 to clone the repository
 
-git clone "<link of repository>"
+git clone "   \<link of repository\>   "
+
 ex: git clone "https://github.com/RadulDev/nipah-poster.git"
 (git clone is only one time command. for first time only.)
 
